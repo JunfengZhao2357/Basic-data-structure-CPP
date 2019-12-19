@@ -1,2 +1,2 @@
 # Cpp-_play-with-algorithm
-Summary of a online course
+Summary of basic algorithms
