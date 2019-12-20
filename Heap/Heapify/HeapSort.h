@@ -1,5 +1,5 @@
 //
-// Created by liuyubobobo on 8/16/16.
+// 
 //
 
 #ifndef INC_06_HEAP_SORT_HEAPSORT_H
