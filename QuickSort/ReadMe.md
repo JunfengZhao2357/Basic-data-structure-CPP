@@ -1,0 +1,2 @@
+- Application: find the largest nth element using quick sort
+- Time complexity: O(n)
