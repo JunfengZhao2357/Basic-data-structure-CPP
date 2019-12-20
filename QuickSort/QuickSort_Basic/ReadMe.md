@@ -1,1 +1,1 @@
-
+- For nearly ordered array, quick sort will reduce to O(n^2).
