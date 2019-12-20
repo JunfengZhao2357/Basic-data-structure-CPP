@@ -5,7 +5,7 @@
 #ifndef INC_06_HEAP_SORT_HEAPSORT_H
 #define INC_06_HEAP_SORT_HEAPSORT_H
 
-#include "Heap.h"
+#include "Heapify.h"
 
 using namespace std;
 
