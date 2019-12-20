@@ -1,1 +1,1 @@
-
+- <=v ; >=v two ways make the quick sort balanced
