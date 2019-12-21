@@ -1,1 +1,2 @@
-
+- Maintain data[ ] , put its Index[ ] into heap
+- The goal is that when we would like to change some value in data, it will be convenient. For example, if we want to change the value of data[7], we can just change it and then we shift up and down.(recalibrating the heap)
