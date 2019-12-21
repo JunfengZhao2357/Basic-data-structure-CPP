@@ -1,1 +1,1 @@
-![image](Heap/IndexMaxHeap/IndexMaxHeap_Advance/Reverse.png)
+![image text](Heap/IndexMaxHeap/IndexMaxHeap_Advance/Reverse.png)
