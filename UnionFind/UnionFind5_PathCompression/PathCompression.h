@@ -38,12 +38,16 @@ class UnionFind{
                 p = parent[p];
             }
             return p;
-
-            // path compression 2, 递归算法
+ }
+    
+//          path compression 2, 递归算法
 //            if( p != parent[p] )
 //                parent[p] = find( parent[p] );
-//            return parent[p];
-        }
+//            return parent[p];                 
+
+            
+//            因为p没有变化，所以要return parent[p]
+       
 
         // 查看元素p和元素q是否所属一个集合
         // O(h)复杂度, h为树的高度
