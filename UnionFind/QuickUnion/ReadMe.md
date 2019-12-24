@@ -1,2 +1,0 @@
-- Consider the data as a tree, child->parent.
-- So union different data is to union their root.
