@@ -1,5 +1,5 @@
 //
-// Created by liuyubobobo on 9/21/16.
+// 
 //
 
 #ifndef INC_03_VERTEX_ADJACENT_ITERATOR_DENSEGRAPH_H
