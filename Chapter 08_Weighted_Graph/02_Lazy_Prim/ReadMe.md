@@ -1,2 +1,3 @@
 ## Lazy Prim
-- Time complexity: O(ElogE)  E represents edge.
+- Time complexity: O(ElogE)  
+- E represents edge.
