@@ -13,3 +13,9 @@
 - 图的遍历：DFS、BFS
 - Minimum Spanning Tree: Prim Kruskal
 - Shortest Path: Dijkstra Bellman-Ford
+---
+## 算法设计
+- 分治：归并排序；快速排序；树结构
+- 贪心：选择排序；堆；Kruskal；Prim；Dijkstra
+- 递归回溯：树的遍历；图的遍历
+- 动态规划：Prim；Dijkstra
